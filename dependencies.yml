@@ -1,5 +1,4 @@
 collectors:
-
 - type: python-pip
   path: requirements.txt
   actors:
