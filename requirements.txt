@@ -8,7 +8,7 @@ pytest-instafail==0.3.0
 pytest-pep8==1.0.5
 pytest-services==1.1.14
 pytest-splinter==1.8.1
-pytest-xdist==1.15.0
+pytest-xdist==1.22.0
 six==1.11.0
 pipenv==9.0.0
 pipsi==0.9
