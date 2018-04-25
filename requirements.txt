@@ -1,5 +1,5 @@
 sqlalchemy==1.2.1
-pytest==3.4.0
+pytest==3.5.1
 pytest-bdd==2.20.0
 pytest-cloud==2.0.0
 pytest-cov==2.4.0
