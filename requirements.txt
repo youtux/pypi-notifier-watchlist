@@ -10,5 +10,5 @@ pytest-services==1.1.14
 pytest-splinter==1.8.1
 pytest-xdist==1.22.0
 six==1.11.0
-pipenv==11.6.0
+pipenv==2018.10.13
 pipsi==0.9
