@@ -1,6 +1,6 @@
 sqlalchemy==1.2.1
 pytest==3.9.2
-pytest-bdd==3.0.0
+pytest-bdd==3.1.1
 pytest-cloud==2.0.0
 pytest-cov==2.4.0
 pytest-factoryboy==2.0.2
