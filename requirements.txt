@@ -4,7 +4,7 @@ pytest-bdd==4.0.1
 pytest-cloud==5.0.2
 pytest-cov==2.10.1
 pytest-factoryboy==2.0.2
-pytest-instafail==0.3.0
+pytest-instafail==0.4.2
 pytest-pep8==1.0.5
 pytest-xdist==2.1.0
 pytest-services==2.2.0
