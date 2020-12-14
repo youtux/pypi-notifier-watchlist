@@ -6,7 +6,7 @@ pytest-cov==2.10.1
 pytest-factoryboy==2.0.3
 pytest-instafail==0.4.2
 pytest-pep8==1.0.6
-pytest-xdist==2.1.0
+pytest-xdist==2.2.0
 pytest-services==2.2.0
 pytest-splinter==3.2.0
 six==1.15.0
