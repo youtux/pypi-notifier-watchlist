@@ -1,4 +1,4 @@
-sqlalchemy==1.4.11
+sqlalchemy==1.4.32
 pytest==6.2.3
 pytest-bdd==4.0.2
 pytest-cloud==5.0.3
