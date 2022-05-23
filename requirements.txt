@@ -3,7 +3,7 @@ pytest==6.2.3
 pytest-bdd==4.0.2
 pytest-cloud==5.0.3
 pytest-cov==2.10.1
-pytest-factoryboy==2.1.0
+pytest-factoryboy==2.3.1
 pytest-instafail==0.4.2
 pytest-pep8==1.0.6
 pytest-xdist==2.2.1
