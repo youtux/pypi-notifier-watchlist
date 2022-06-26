@@ -9,5 +9,5 @@ pytest-pep8==1.0.6
 pytest-xdist==2.2.1
 pytest-services==2.2.1
 pytest-splinter==3.3.1
-six==1.15.0
+six==1.16.0
 pipsi==0.9
